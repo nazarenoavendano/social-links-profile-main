@@ -2,10 +2,8 @@
 
 ![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Hola 👋
 
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+Este proyecto consiste en una tarjeta (card) simple creada con HTML y CSS. La tarjeta muestra botones para enlaces a tus redes sociales favoritas.
 
 
